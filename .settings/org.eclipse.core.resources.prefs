@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/game/gameTetris.py=utf-8
+encoding//src/model/Python-Model.py=utf-8
+encoding//src/net/PicCrawler.py=utf-8
+encoding//src/net/dataCramler.py=utf-8
+encoding//src/net/movieCrawler.py=utf-8
+encoding//src/net/tool.py=utf-8
+encoding//src/setup/dataCramler.py=utf-8
+encoding//src/setup/mybuild.py=utf-8
+encoding//src/shootgame/gameRole.py=utf-8
+encoding//src/shootgame/mainGame.py=utf-8
+encoding//src/time/MyTimer.py=utf-8
+encoding/<project>=UTF-8
